@@ -1,0 +1,21 @@
+TOPIC,TOPIC PROPORTION,TOP WORDS,,â,data,exampl,ontolog
+1,0.07408487,"data, â, languag, clinic, process, biomed, exampl, system, background, bigdata",,0.026094503,0.973905473,3.58E-36,0
+2,0.08064042,"ontolog, exampl, biomed, process, languag, â, system, clinic, background, bigdata",,1.13E-31,0,0.078704742,0.92126452
+3,0.05201644,"et, clinic, process, exampl, â, biomed, system, languag, background, bigdata",,8.53E-07,0,0.048373277,0
+4,0.04044655,"biomed, page, system, languag, clinic, process, â, exampl, background, bigdata",,4.23E-12,0,9.93E-43,0
+5,0.04664995,"medic, system, exampl, clinic, â, process, biomed, languag, background, bigdata",,8.09E-07,0,0.03182017,0
+6,0.07494737,"â, requir, system, exampl, process, clinic, languag, biomed, background, bigdata",,0.727704939,0,0.006267509,0
+7,0.05690537,"clinic, case, process, languag, exampl, â, system, biomed, background, bigdata",,4.74E-10,0,0.080089719,0
+8,0.03591459,"semant, biomed, system, languag, process, clinic, â, exampl, background, bigdata",,9.16E-09,0,1.36E-33,0
+9,0.06091161,"bigdata, process, â, exampl, biomed, system, languag, clinic, background, case",,4.97E-11,0,7.70E-12,0
+10,0.06345867,"project, exampl, process, biomed, â, languag, system, clinic, background, bigdata",,4.75E-12,0,4.41E-05,0
+11,0.06091035,"f, process, â, exampl, biomed, system, languag, clinic, background, bigdata",,4.97E-11,0,7.70E-12,0
+12,0.06090421,"files_keyword, process, â, exampl, biomed, system, languag, clinic, background, bigdata",,4.97E-11,0,7.69E-12,0
+13,0.06091243,"textfil, process, â, exampl, biomed, system, languag, clinic, background, bigdata",,4.97E-11,0,7.70E-12,0
+14,0.06091215,"txt, process, â, exampl, biomed, system, languag, clinic, background, bigdata",,4.97E-11,0,7.70E-12,0
+15,0.06319349,"run, process, languag, exampl, â, biomed, system, clinic, background, bigdata",,4.78E-11,0,2.42E-09,0
+16,0.02392938,"concept, clinic, â, biomed, system, exampl, process, languag, background, bigdata",,5.55E-11,0,3.23E-15,0
+17,0.01365377,"perform, system, â, clinic, process, biomed, exampl, languag, background, bigdata",,0.000113404,0,1.88E-10,0
+18,0.01432389,"background, exampl, languag, process, system, â, biomed, clinic, bigdata, case",,2.50E-11,0,0.005421131,0
+19,0.03535722,"inform, languag, process, clinic, â, system, biomed, exampl, background, bigdata",,2.13E-06,0,3.53E-13,0
+20,0.01992726,"framework, languag, process, biomed, exampl, â, system, clinic, background, bigdata",,3.67E-19,0,5.00E-09,0
